@@ -4,7 +4,7 @@
   <h3>Já atuei como:<br>
    <ul>
       <li>Engenheiro de Software
-      <li>Engenheiro devops
+      <li>Engenheiro DevOps
       <li>Engenheiro de dados
       <li>Engenheiro de Machine Learning
 </div>
