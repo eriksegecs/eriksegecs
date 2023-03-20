@@ -1,4 +1,4 @@
-## Olá eu sou o Erik Segecs!
+## Sobre mim:
 
 <div style="display: inline_block"><br>
   <h3>Já atuei como:<br>
